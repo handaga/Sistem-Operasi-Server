@@ -1,5 +1,13 @@
 # Sistem-Operasi-Server
 
+## Materi pra syarat: sebaiknya sudah memahami kosep TCP/IP Protocol
+
+Beberapa link bacaan tentang TCP/IP Protocol dapat di baca di sini
+
+https://technet.microsoft.com/en-us/library/cc958821.aspx
+
+http://www.w3schools.com/website/web_tcpip.asp
+
 ## link penting:
 
 http://www.tutorialspoint.com//internet_technologies/web_servers.htm
