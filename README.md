@@ -1,6 +1,6 @@
 # Sistem-Operasi-Server
 
-## Materi pra syarat: sebaiknya sudah memahami kosep TCP/IP Protocol
+## Materi pra syarat: sebaiknya sudah memahami konsep TCP/IP Protocol
 
 Beberapa link bacaan tentang TCP/IP Protocol dapat di baca di sini
 
