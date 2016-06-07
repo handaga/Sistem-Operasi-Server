@@ -1,5 +1,18 @@
 # Sistem-Operasi-Server
 
+## -----------------------------------------------------------------------
+
+# Kisi-kisi UAS 2016 : Sistem Operasi Server 
+
+1. DNS Server 
+2. Email SErver 
+3. Account Management
+
+## ---------------------------------------------------------------------
+
+
+
+
 ## Materi pra syarat: sebaiknya sudah memahami konsep TCP/IP Protocol
 
 Beberapa link bacaan tentang TCP/IP Protocol dapat di baca di sini
