@@ -8,6 +8,14 @@
 2. Email SErver 
 3. Account Management
 
+Referensi:
+
+1. Linux Server (http://www.aboutdebian.com/)
+1. LDAP : http://www.openldap.org/
+1. ClearOS: https://www.clearos.com/
+1. Ubuntu help: https://help.ubuntu.com/lts/serverguide/dns-configuration.html
+
+
 ## ---------------------------------------------------------------------
 
 
